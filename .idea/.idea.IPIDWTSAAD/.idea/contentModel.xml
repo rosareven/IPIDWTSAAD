@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Unity\IPIDWTSAAD" t="IncludeRecursive">
+      <e p="Assembly-CSharp-Editor.csproj" t="IncludeRecursive" />
+      <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
+      <e p="Assets" t="Include">
+        <e p="credits.txt" t="Include" />
+        <e p="Scripts" t="Include">
+          <e p="GameController.cs" t="Include" />
+          <e p="PlayerProject.cs" t="Include" />
+          <e p="SaveManager.cs" t="Include" />
+          <e p="Village.cs" t="Include" />
+          <e p="VillageEvents.cs" t="Include" />
+        </e>
+        <e p="VIDE" t="Include">
+          <e p="Data" t="Include">
+            <e p="Editor" t="Include">
+              <e p="VDE.cs" t="Include" />
+              <e p="VIDE_AssignC.cs" t="Include" />
+              <e p="VIDE_Editor.cs" t="Include" />
+            </e>
+            <e p="MiniJSON_VIDE.cs" t="Include" />
+            <e p="VIDE_Data.cs" t="Include" />
+            <e p="VIDE_Editor_Skin.cs" t="Include" />
+            <e p="VIDE_EditorDB.cs" t="Include" />
+            <e p="VIDE_Localization.cs" t="Include" />
+          </e>
+          <e p="Demos" t="Include">
+            <e p="About.txt" t="Include" />
+            <e p="Localization" t="Include">
+              <e p="README.txt" t="Include" />
+              <e p="VIDEUIManager2.cs" t="Include" />
+            </e>
+            <e p="MultiInstances" t="Include">
+              <e p="README.txt" t="Include" />
+              <e p="VIDEUIManager3.cs" t="Include" />
+            </e>
+            <e p="Narration" t="Include">
+              <e p="DEMO_UIManager.cs" t="Include" />
+            </e>
+            <e p="PlayerInteraction" t="Include">
+              <e p="demoScripts" t="Include">
+                <e p="CylinderGuy.cs" t="Include" />
+                <e p="QuestChartDemo.cs" t="Include" />
+                <e p="VIDEDemoPlayer.cs" t="Include" />
+                <e p="VIDEUIManager1.cs" t="Include" />
+                <e p="witchExample.cs" t="Include" />
+              </e>
+              <e p="README.txt" t="Include" />
+            </e>
+            <e p="Template" t="Include">
+              <e p="Template_UIManager.cs" t="Include" />
+            </e>
+            <e p="VeryBasic" t="Include">
+              <e p="minUIExample.cs" t="Include" />
+            </e>
+          </e>
+          <e p="Export" t="Include">
+            <e p="README.txt" t="Include" />
+          </e>
+          <e p="README.txt" t="Include" />
+          <e p="VIDE_Assign.cs" t="Include" />
+        </e>
+      </e>
+      <e p="IPIDWTSAAD.sln" t="IncludeFlat" />
+      <e p="obj" t="ExcludeRecursive" />
+      <e p="Packages" t="ExcludeRecursive" />
+      <e p="Temp\bin" t="ExcludeRecursive" />
+    </e>
+    <e p="C:\Users\Metabox\.Rider2019.2\system\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\Metabox\.Rider2019.2\system\resharper-host\local\Transient\ReSharperHost\v192\SolutionCaches\_IPIDWTSAAD.-356777558.00" t="ExcludeRecursive" />
+  </component>
+</project>
